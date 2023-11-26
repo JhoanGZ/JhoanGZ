@@ -1,6 +1,6 @@
-<h1> Hey ! Glad to have you around<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<img src="https://media.giphy.com/media/SWchakFYsYDQJZcU7o/giphy.gif" width="200"">
-<p>Some info about me..</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+;I'm+Jhoan+Guti%C3%A9rrez;Computer+Science+Undergraduate;Nice+to+have+you+around)](https://git.io/typing-svg)
+<p></p>
+<img src="https://media.giphy.com/media/SWchakFYsYDQJZcU7o/giphy.gif" width="80""><p>Some info about me..</p>
 
 ```javascript
 const jhoan = {
@@ -26,8 +26,6 @@ const jhoan = {
   funFact: "Why do programmers prefer dark mode? Because light attracts bugs!"
 };
 ```
-<h3>Tools i use to code</h3>
-
 <img src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif" width="80"><br>
 Contact me or follow me<br><br>
 [![Linkedin: Jhoan Gutierrez](https://img.shields.io/badge/-JhoanGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jagutierrezz/)](https://www.linkedin.com/in/jagutierrezz/)
