@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-###<img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="50">Some info about me.. 
+###<img src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif">Some info about me.. 
 
 ```javascript
 const jhoan = {
