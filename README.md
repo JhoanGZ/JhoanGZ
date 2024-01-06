@@ -11,7 +11,8 @@ const jhoan = {
       php: ["Laravel"]
     },
     mobileApp: {
-      android: ["Flutter"]
+      android: ["Flutter"],
+      ios: ["Flutter"]
     }
   },
   tool: ["Flutter", "Node", "Anaconda", "Git", "Laravel", "Linux", "Ionic", ".Net"],
