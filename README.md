@@ -4,7 +4,7 @@
 
 ```javascript
 const jhoan = {
-  code: ["Javascript", "C#", "PHP", "Dart", "Python", "Java", "C++"],
+  code: ["Javascript", "C", "C#", "PHP", "Dart", "Python", "Java", "C++"],
   technologies: {
     backEnd: {
       js: ["Node"],
