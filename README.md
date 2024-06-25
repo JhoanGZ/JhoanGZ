@@ -4,7 +4,7 @@
 
 ```javascript
 const jhoan = {
-  code: ["Javascript", "C", "C#", "PHP", "Dart", "Python", "Java", "C++"],
+  code: ["JS", "C", "C++", "C#", "PHP", "Dart", "Python", "Java"],
   technologies: {
     backEnd: {
       js: ["Node"],
@@ -22,8 +22,8 @@ const jhoan = {
     languages: ["English", "German", "Spanish", "French"]
   },
   askMeAbout: ["web dev", "tech", "app dev", "design"],
-  currentFocus: "finish my midterm goals",
-  objective: "Evolution is my way, so learning is the map and solving is the compass",
+  currentFocus: "Building my portfolio, looking for a job, finishing my CS bachelor and working in my CS50 certification",
+  objective: "Embracing evolution, so learning is the map and solving is the compass",
   funFact: "Why do programmers prefer dark mode? Because light attracts bugs!"
 };
 ```
