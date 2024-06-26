@@ -22,7 +22,7 @@ const jhoan = {
     languages: ["English", "German", "Spanish", "French"]
   },
   askMeAbout: ["web dev", "tech", "app dev", "design"],
-  currentFocus: "Building my portfolio, looking for a job, finishing my CS bachelor and working in my CS50 certification",
+  currentFocus: "Working in personal projects while finishing the last year of bachelor!",
   objective: "Embracing evolution, so learning is the map and solving is the compass",
   funFact: "Why do programmers prefer dark mode? Because light attracts bugs!"
 };
