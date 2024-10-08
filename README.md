@@ -8,20 +8,22 @@ const jhoan = {
   technologies: {
     backEnd: {
       javascript: ["Node"],
-      php: ["Laravel"]
+      php: ["Laravel"],
+      Java: ["Spring"]
     },
     mobileApp: {
       android: ["Flutter"],
       ios: ["Flutter"]
-    }
+    },
+    OS: ["Windows", "Linux"],
   },
-  tool: ["Flutter", "Node", "Anaconda", "Git", "Laravel", "Linux", "Ionic", ".Net"],
+  tool: ["Flutter", "Node", "Anaconda", "Git", "Mockito", "Linux", "Figma", "Jira", "Trello", "Docker"],
   architecture: ["test-driven", "event-driven", "design system pattern"],
   background: {
     freetime: ["Math", "Music", "Gaming"],
     languages: ["English", "German", "Spanish", "French"]
   },
-  askMeAbout: ["web dev", "tech", "app dev", "design"],
+  askMeAbout: ["web dev", "tech", "app dev", "design", "Software Architecture"],
   currentFocus: "Working in personal projects while finishing the last cycle of bachelor studies!",
   objective: "Embracing evolution, so learning is the map and solving is the compass",
   funFact: "Why do programmers prefer dark mode? Because light attracts bugs!"
