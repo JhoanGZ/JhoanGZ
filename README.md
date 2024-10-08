@@ -17,7 +17,7 @@ const jhoan = {
     },
     OS: ["Windows", "Linux"],
   },
-  tool: ["Flutter", "Node", "Anaconda", "Git", "Mockito", "Linux", "Figma", "Jira", "Trello", "Docker"],
+  tools: ["Anaconda", "Git", "Mockito", "Babel", "Figma", "Jira", "Trello", "Docker", "Bootstrap", "TailwindCSS", "Vite", "Svelte", "Jest"],
   architecture: ["test-driven", "event-driven", "design system pattern"],
   background: {
     freetime: ["Math", "Music", "Gaming"],
