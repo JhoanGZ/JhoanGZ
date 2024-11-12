@@ -12,8 +12,8 @@ const jhoan = {
       Java: ["Spring"]
     },
     mobileApp: {
-      android: ["Flutter"],
-      ios: ["Flutter"]
+      android: ["Flutter", "Ionic"],
+      ios: ["Flutter", "Ionic"]
     },
     OS: ["Windows", "Linux"],
   },
