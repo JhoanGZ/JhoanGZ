@@ -31,6 +31,5 @@ const jhoan = {
 ```
 <img src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif" width="80"><br>
 <!--Contact me or follow me.. Why not both? ¯\_(ツ)_/¯<br><br>-->
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/a/a9/LinkedIn_icon.svg)](https://www.linkedin.com/in/jagutierrezz/?locale=en_US)
-
+[![Linkedin: Linkedin](https://img.shields.io/badge/-JhoanGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jagutierrezz/?locale=en_US)
 <!--[![GitHub JhoanGZ](https://img.shields.io/github/followers/JhoanGZ?label=follow&style=social)](https://github.com/JhoanGZ)-->
