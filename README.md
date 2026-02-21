@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Jhoan+Guti%C3%A9rrez;Backend+Engineer+%7C+AI-Oriented+Systems;SaaS+Architecture;Scalable+API+Design;RAG+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Jhoan+Guti%C3%A9rrez;Software+Engineer;Backend+Developer+%7C+AI-Oriented+Systems;SaaS+Architecture;Scalable+API+Design;RAG+Infrastructure" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ const jhoanGutierrez = {
 ```
 ---
 
-## 🤖 VectorEngine – Modular AI-Oriented Backend Infrastructure
+## 🤖 VectorEngine - Modular AI-Oriented Backend Infrastructure
 
 A containerized semantic retrieval backend designed to power context-aware AI applications.
 
@@ -131,7 +131,7 @@ VectorEngine is designed as a reusable semantic infrastructure layer focused on 
 
 ---
 
-## 🏫 Toolsticket – Multi-Tenant Educational Incident Management Platform
+## 🏫 Toolsticket - Multi-Tenant Educational Incident Management Platform
 
 A domain-driven SaaS module designed for institutional incident management in educational environments.
 
