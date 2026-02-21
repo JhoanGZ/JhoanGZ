@@ -131,7 +131,7 @@ VectorEngine is designed as a reusable semantic infrastructure layer focused on 
 
 ---
 
-## 🏫 Toolsticket - Multi-Tenant Educational Incident Management Platform
+## 🏫 Toolsticket - Multi-Tenant Educational Incident Management Module
 
 A domain-driven SaaS module designed for institutional incident management in educational environments.
 
