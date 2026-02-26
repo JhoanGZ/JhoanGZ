@@ -161,6 +161,10 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
 
 ## 🛠 Core Technologies
 
+## Tech Stack
+
+<!-- ▼ ANIMADOS: pirámide invertida (8 → 3) ▼ -->
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -184,6 +188,27 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
       <br>Docker
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
       <br>REST API
     </td>
@@ -192,10 +217,14 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
-      <br>Nginx
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="65" height="65" />
+      <br>C#
     </td>
   </tr>
+</table>
+
+<!-- ▲ ESTÁTICOS: pirámide normal (5 → 8) ▲ -->
+<table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
@@ -217,10 +246,11 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
@@ -229,8 +259,6 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -240,20 +268,12 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
       <br>CI/CD
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
@@ -265,6 +285,7 @@ This project demonstrates non-trivial domain modeling, secure multi-tenant archi
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
