@@ -31,6 +31,8 @@ I focus on:
 - Modular RAG infrastructure  
 - Delivery-focused backend systems with strong architectural boundaries  
 - Refining system design, observability, and production readiness
+- Portfolio update
+- New keyboard optimization for workflow
 
 ---
 
